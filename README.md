@@ -1,0 +1,1 @@
+# local-go-ci-pipeline-lint-failure-go-app
